@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Books.Core
 {
+    /// <summary>
+    /// This is constant 
+    /// </summary>
     public static class Constants
     {
         public struct Configuration
